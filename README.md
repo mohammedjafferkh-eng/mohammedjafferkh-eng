@@ -1,41 +1,10 @@
-# Hi there, I'm Mohammed Jaffer 👋
+**Hi, I'm Mohammed Jaffar 👋**
 
-🎓 Electronics & Telecommunication Engineering Student
+I'm an Electronics and Telecommunication Engineering student with a strong interest in backend software engineering. Currently, I'm focused on mastering Java, Data Structures & Algorithms, SQL, and backend development while continuing to strengthen my foundation in digital electronics and Verilog.
 
-I'm passionate about building technology that bridges hardware and software. I enjoy creating frontend web applications, developing embedded systems, and continuously learning new technologies.
+I enjoy solving problems, building practical projects, and understanding how scalable software systems work. My goal is to grow into a software engineer who can build reliable, high-quality applications and, one day, create impactful technology products of my own.
 
-## 🚀 Currently Learning
+**Currently learning:** Java • DSA • SQL
+**Interested in:** Backend Development • System Design • Software Engineering • Digital Electronics • Verilog
 
-* Verilog
-* Digital Design
-* Python
-* Git & GitHub
-
-## 💻 Technical Interests
-
-* VLSI Design Verification
-* Embedded Systems & IoT
-* Frontend Web Development
-* UI/UX Design
-* AI & Automation
-
-## 🛠️ Tech Stack
-
-* **Languages:** Verilog, Python, HTML, CSS, JavaScript
-* **Frameworks:** React
-* **Tools:** Git, GitHub, VS Code, Arduino IDE
-* **Other:** Microsoft Excel, ESP32, Arduino
-
-## 📂 What You'll Find Here
-
-* Verilog & Digital Design practice
-* Frontend websites and portfolio projects
-* Embedded systems & IoT projects
-* Python learning projects
-* Engineering experiments and personal builds
-
-## 🎯 Goal
-
-To become a skilled engineer by building practical, real-world projects and continuously improving my knowledge in semiconductor engineering, embedded systems, and modern web technologies.
-
-⭐ *Always learning. Always building.*
+*"Learning every day. Building one project at a time."*
